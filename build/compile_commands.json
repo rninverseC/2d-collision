@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/stephenye/stephen/coding/project/physics/collision/build",
+  "command": "/usr/bin/c++  -I/Users/stephenye/stephen/coding/project/physics/collision/src -isystem /opt/homebrew/include -std=c++2b -Wno-deprecated-declarations -o CMakeFiles/collision.dir/src/collision.cpp.o -c /Users/stephenye/stephen/coding/project/physics/collision/src/collision.cpp",
+  "file": "/Users/stephenye/stephen/coding/project/physics/collision/src/collision.cpp",
+  "output": "CMakeFiles/collision.dir/src/collision.cpp.o"
+},
+{
+  "directory": "/Users/stephenye/stephen/coding/project/physics/collision/build",
+  "command": "/usr/bin/c++  -I/Users/stephenye/stephen/coding/project/physics/collision/src -isystem /opt/homebrew/include -std=c++2b -Wno-deprecated-declarations -o CMakeFiles/collision.dir/src/main.cpp.o -c /Users/stephenye/stephen/coding/project/physics/collision/src/main.cpp",
+  "file": "/Users/stephenye/stephen/coding/project/physics/collision/src/main.cpp",
+  "output": "CMakeFiles/collision.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/stephenye/stephen/coding/project/physics/collision/build",
+  "command": "/usr/bin/c++  -I/Users/stephenye/stephen/coding/project/physics/collision/src -isystem /opt/homebrew/include -std=c++2b -Wno-deprecated-declarations -o CMakeFiles/collision.dir/src/physics.cpp.o -c /Users/stephenye/stephen/coding/project/physics/collision/src/physics.cpp",
+  "file": "/Users/stephenye/stephen/coding/project/physics/collision/src/physics.cpp",
+  "output": "CMakeFiles/collision.dir/src/physics.cpp.o"
+}
+]

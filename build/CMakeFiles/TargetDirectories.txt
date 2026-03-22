@@ -1,0 +1,4 @@
+/Users/stephenye/stephen/coding/project/physics/collision/build/CMakeFiles/collision.dir
+/Users/stephenye/stephen/coding/project/physics/collision/build/CMakeFiles/run.dir
+/Users/stephenye/stephen/coding/project/physics/collision/build/CMakeFiles/edit_cache.dir
+/Users/stephenye/stephen/coding/project/physics/collision/build/CMakeFiles/rebuild_cache.dir
